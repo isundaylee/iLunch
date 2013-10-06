@@ -17,3 +17,26 @@
 body {
   padding-top: 60px;
 }
+
+/*
+ * Utility classes
+ */
+
+.center {
+  text-align: center;
+}
+
+/*
+ * Footer
+ */
+
+footer {
+  background-color: black; 
+  padding-top: 30px;
+  padding-bottom: 15px;
+  margin-top: 20px;
+}
+
+footer p {
+  color: #CCCCCC; 
+}
