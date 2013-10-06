@@ -45,4 +45,4 @@ end
 # gem 'debugger', group: [:development, :test]
 
 # Twitter Bootstrap
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', git: 'https://github.com/thomas-mcdonald/bootstrap-sass.git'
